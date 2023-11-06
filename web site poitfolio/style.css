@@ -1,0 +1,154 @@
+
+body {
+    background-image: url(image/peaccook.jpg);
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+header h1 {
+    color: #6c757d;
+    font-size: 36px;
+    text-align: center;
+}
+
+
+header p {
+    color: #6c757d;
+    text-align: center;
+}
+header img {
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+nav ul {
+position: absolute;
+left: 0;
+top: 0;
+}
+
+nav li {
+    float: left;
+    margin-right: 10px;
+}
+
+nav a {
+    display: block;
+    color: red ;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    
+    color: black;
+}
+section {
+    padding: 20px;
+    text-align: center;
+}
+section h2 {
+    color: #6c757d;
+    font-size: 24px;
+    text-align: center;
+}
+
+
+section ul {
+    list-style-type: square;
+    list-style-position: inside;
+    text-align: center;
+}
+
+section li {
+    color: #6c757d;
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+}
+section {
+    padding: 20px;
+    text-align: left;
+    text-align: center;
+}
+
+
+section h2 {
+    color: #6c757d;
+    font-size: 24px;
+    text-align: center;
+}
+
+section p {
+    color: #6c757d;
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+}
+article {
+    padding: 20px;
+    text-align: center;
+}
+
+
+article h3 {
+    color: #6c757d;
+    font-size: 22px;
+}
+
+article p {
+  
+    color: #6c757d;
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+}
+section {
+    
+    padding: 20px;
+    text-align: center;
+}
+section h2 {
+    color: #6c757d;
+    font-size: 24px;
+}
+section p {
+    color: #6c757d;
+    font-size: 18px;
+    line-height: 1.6;
+}
+section a {
+    color: blue;
+    text-decoration: none;
+}
+footer {
+  
+    padding: 20px;
+    text-align: center;
+}
+
+
+footer p {
+    color: #6c757d;
+    font-size: 16px;
+}
+a:link {
+    color: blue
+}
+a:visited {
+    color: purple; 
+}
+a:hover {
+    color: red; 
+}
+
+a:active {
+    color: yellow;
+}
